@@ -43,6 +43,7 @@ jobs:
       - name: 🚀 Run Python scripts
         run: |
           python Coincarp.py
+          python DefiLlama.py
       
           
       - name: 📤 Commit and Push Changes
