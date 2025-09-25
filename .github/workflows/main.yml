@@ -34,7 +34,7 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          pip install --upgrade openpyxl pandas requests matplotlib
+          pip install --upgrade openpyxl pandas requests matplotlib selenium
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: 🧪 Verify OpenPyXL Installation
