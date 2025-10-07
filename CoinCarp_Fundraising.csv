@@ -1,4 +1,13 @@
 Project,Category,Funding Round,Amount,Investors,Funding Date
+Bee Maps,Infrastructure,Undisclosed,$32.00M,"Pantera Capital
+Borderless Capital
+LDA Capital","Oct 06, 2025"
+Figment,Infrastructure,Undisclosed,--,--,"Oct 06, 2025"
+Quantum Execute,CeFi,Undisclosed,$2.30M,WT Capital,"Oct 03, 2025"
+lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
+Lee Linden
+cbspears","Oct 01, 2025"
+VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
 Talus,Infrastructure,Strategic,--,"Sui
 Walrus","Spt 30, 2025"
 Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
@@ -6,6 +15,12 @@ BaseVol,DeFi,Seed,$3.00M,"Neoclassic
 Altos Ventures
 Baboon VC
 …","Spt 30, 2025"
+"KGeN(indiGG)
+INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
+Accel
+Prosus Ventures","Spt 30, 2025"
+xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
+MultiversX","Spt 30, 2025"
 Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
 Sigil Fund
 Tioga Capital
@@ -33,26 +48,15 @@ Bastion,Web3,Undisclosed,$1.46M,"Coinbase Ventures
 Andreessen Horowitz(a16z)
 Hashed
 …","Spt 24, 2025"
-Stablecorp,Others,Strategic,$3.60M,--,"Spt 24, 2025"
-Elliptic,CeFi,Strategic,--,HSBC,"Spt 24, 2025"
-Neura AI,Infrastructure,Undisclosed,--,"MH Ventures
-IBC Group
-Mario Nawfal
-…","Spt 24, 2025"
-Belfort,Infrastructure,Seed,$6.00M,"Anagram
-Credibly Neutral
-Inovia Capital
-…","Spt 24, 2025"
-Raiku,Infrastructure,Pre-Seed,$11.25M,"Pantera Capital
-Hashkey Capital
-Jump Crypto
-…","Spt 24, 2025"
-SegaSwap,DeFi,Seed,--,"Sonic Capital
-10k Ventures","Spt 23, 2025"
-Cloudburst,Others,Series A,$7.00M,"Borderless Capital
-Coinbase Ventures
-CoinFund
-…","Spt 23, 2025"
+Bee Maps,Infrastructure,Undisclosed,$32.00M,"Pantera Capital
+Borderless Capital
+LDA Capital","Oct 06, 2025"
+Figment,Infrastructure,Undisclosed,--,--,"Oct 06, 2025"
+Quantum Execute,CeFi,Undisclosed,$2.30M,WT Capital,"Oct 03, 2025"
+lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
+Lee Linden
+cbspears","Oct 01, 2025"
+VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
 Talus,Infrastructure,Strategic,--,"Sui
 Walrus","Spt 30, 2025"
 Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
@@ -60,6 +64,12 @@ BaseVol,DeFi,Seed,$3.00M,"Neoclassic
 Altos Ventures
 Baboon VC
 …","Spt 30, 2025"
+"KGeN(indiGG)
+INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
+Accel
+Prosus Ventures","Spt 30, 2025"
+xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
+MultiversX","Spt 30, 2025"
 Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
 Sigil Fund
 Tioga Capital
@@ -87,26 +97,15 @@ Bastion,Web3,Undisclosed,$1.46M,"Coinbase Ventures
 Andreessen Horowitz(a16z)
 Hashed
 …","Spt 24, 2025"
-Stablecorp,Others,Strategic,$3.60M,--,"Spt 24, 2025"
-Elliptic,CeFi,Strategic,--,HSBC,"Spt 24, 2025"
-Neura AI,Infrastructure,Undisclosed,--,"MH Ventures
-IBC Group
-Mario Nawfal
-…","Spt 24, 2025"
-Belfort,Infrastructure,Seed,$6.00M,"Anagram
-Credibly Neutral
-Inovia Capital
-…","Spt 24, 2025"
-Raiku,Infrastructure,Pre-Seed,$11.25M,"Pantera Capital
-Hashkey Capital
-Jump Crypto
-…","Spt 24, 2025"
-SegaSwap,DeFi,Seed,--,"Sonic Capital
-10k Ventures","Spt 23, 2025"
-Cloudburst,Others,Series A,$7.00M,"Borderless Capital
-Coinbase Ventures
-CoinFund
-…","Spt 23, 2025"
+Bee Maps,Infrastructure,Undisclosed,$32.00M,"Pantera Capital
+Borderless Capital
+LDA Capital","Oct 06, 2025"
+Figment,Infrastructure,Undisclosed,--,--,"Oct 06, 2025"
+Quantum Execute,CeFi,Undisclosed,$2.30M,WT Capital,"Oct 03, 2025"
+lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
+Lee Linden
+cbspears","Oct 01, 2025"
+VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
 Talus,Infrastructure,Strategic,--,"Sui
 Walrus","Spt 30, 2025"
 Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
@@ -114,6 +113,12 @@ BaseVol,DeFi,Seed,$3.00M,"Neoclassic
 Altos Ventures
 Baboon VC
 …","Spt 30, 2025"
+"KGeN(indiGG)
+INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
+Accel
+Prosus Ventures","Spt 30, 2025"
+xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
+MultiversX","Spt 30, 2025"
 Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
 Sigil Fund
 Tioga Capital
@@ -141,23 +146,3 @@ Bastion,Web3,Undisclosed,$1.46M,"Coinbase Ventures
 Andreessen Horowitz(a16z)
 Hashed
 …","Spt 24, 2025"
-Stablecorp,Others,Strategic,$3.60M,--,"Spt 24, 2025"
-Elliptic,CeFi,Strategic,--,HSBC,"Spt 24, 2025"
-Neura AI,Infrastructure,Undisclosed,--,"MH Ventures
-IBC Group
-Mario Nawfal
-…","Spt 24, 2025"
-Belfort,Infrastructure,Seed,$6.00M,"Anagram
-Credibly Neutral
-Inovia Capital
-…","Spt 24, 2025"
-Raiku,Infrastructure,Pre-Seed,$11.25M,"Pantera Capital
-Hashkey Capital
-Jump Crypto
-…","Spt 24, 2025"
-SegaSwap,DeFi,Seed,--,"Sonic Capital
-10k Ventures","Spt 23, 2025"
-Cloudburst,Others,Series A,$7.00M,"Borderless Capital
-Coinbase Ventures
-CoinFund
-…","Spt 23, 2025"
