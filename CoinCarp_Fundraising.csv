@@ -1,4 +1,44 @@
 Project,Category,Funding Round,Amount,Investors,Funding Date
+Kalshi,DeFi,Undisclosed,$300.00M,"Andreessen Horowitz(a16z)
+Paradigm
+Coinbase Ventures
+…","Oct 10, 2025"
+Rhuna,Others,Seed,$2.00M,"CoinMarketCap
+NewTribe Capital
+X Ventures
+…","Oct 10, 2025"
+"Falcon Finance
+USDf",CeFi,Strategic,$10.00M,"Cypher Capital
+M2","Oct 09, 2025"
+LAB,DeFi,Undisclosed,$5.00M,"Lemniscap
+OKX Ventures
+GSR
+…","Oct 09, 2025"
+Block Street,DeFi,Undisclosed,$11.50M,"Hack VC
+Generative Ventures
+DWF Ventures","Oct 09, 2025"
+"375ai
+EAT",Infrastructure,Undisclosed,$5.00M,"Strobe Ventures
+6th Man Ventures
+Arca
+…","Oct 08, 2025"
+DDC,Others,Post-IPO,$124.00M,--,"Oct 08, 2025"
+Anthea,DeFi,Series A,$22.00M,Yunfeng Financial Group,"Oct 08, 2025"
+TransCrypts,Others,Seed,$15.00M,"Pantera Capital
+Faction VC
+Alpha Edison
+…","Oct 08, 2025"
+Coinflow,Web3,Series A,$25.00M,"Coinbase Ventures
+Pantera Capital
+Jump Capital
+…","Oct 08, 2025"
+NebX,DeFi,Undisclosed,$6.00M,M2M capital,"Oct 07, 2025"
+CrunchDAO (Crunch Lab),Others,Strategic,$5.00M,"Galaxy Ventures
+Road Capital
+Multicoin Capital
+…","Oct 07, 2025"
+"Polymarket
+Polymarket",Infrastructure,Strategic,$2.00B,Intercontinental Exchange,"Oct 07, 2025"
 Meanwhile,Infrastructure,Undisclosed,$82.00M,"Haun Ventures
 Bain Capital Crypto
 Pantera Capital
@@ -14,38 +54,46 @@ lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
 Lee Linden
 cbspears","Oct 01, 2025"
 VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
-Talus,Infrastructure,Strategic,--,"Sui
-Walrus","Spt 30, 2025"
-Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
-BaseVol,DeFi,Seed,$3.00M,"Neoclassic
-Altos Ventures
-Baboon VC
-…","Spt 30, 2025"
-"KGeN(indiGG)
-INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
-Accel
-Prosus Ventures","Spt 30, 2025"
-xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
-MultiversX","Spt 30, 2025"
-Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
-Sigil Fund
-Tioga Capital
-…","Spt 29, 2025"
-HeLa Network,Infrastructure,Undisclosed,$2.00M,--,"Spt 27, 2025"
-Share,Others,Undisclosed,$30.00M,"Coinbase Ventures
-Collab+Currency
-Palm Tree Crew(PTC Crypto)","Spt 26, 2025"
-Crossmint,CeFi,Strategic,--,Circle Ventures,"Spt 25, 2025"
-RedotPay,Others,Strategic,$47.00M,"Coinbase Ventures
-Galaxy Ventures
-Vertex Ventures","Spt 25, 2025"
-RockSolid Network,DeFi,Pre-Seed,$2.80M,"Castle Island Ventures
+Kalshi,DeFi,Undisclosed,$300.00M,"Andreessen Horowitz(a16z)
+Paradigm
+Coinbase Ventures
+…","Oct 10, 2025"
+Rhuna,Others,Seed,$2.00M,"CoinMarketCap
+NewTribe Capital
+X Ventures
+…","Oct 10, 2025"
+"Falcon Finance
+USDf",CeFi,Strategic,$10.00M,"Cypher Capital
+M2","Oct 09, 2025"
+LAB,DeFi,Undisclosed,$5.00M,"Lemniscap
+OKX Ventures
 GSR
-Rocket Pool
-…","Spt 25, 2025"
-Divine,DeFi,Seed,$6.00M,Paradigm,"Spt 25, 2025"
-Melee,Others,Pre-Seed,$3.50M,"Variant
-DBA","Spt 24, 2025"
+…","Oct 09, 2025"
+Block Street,DeFi,Undisclosed,$11.50M,"Hack VC
+Generative Ventures
+DWF Ventures","Oct 09, 2025"
+"375ai
+EAT",Infrastructure,Undisclosed,$5.00M,"Strobe Ventures
+6th Man Ventures
+Arca
+…","Oct 08, 2025"
+DDC,Others,Post-IPO,$124.00M,--,"Oct 08, 2025"
+Anthea,DeFi,Series A,$22.00M,Yunfeng Financial Group,"Oct 08, 2025"
+TransCrypts,Others,Seed,$15.00M,"Pantera Capital
+Faction VC
+Alpha Edison
+…","Oct 08, 2025"
+Coinflow,Web3,Series A,$25.00M,"Coinbase Ventures
+Pantera Capital
+Jump Capital
+…","Oct 08, 2025"
+NebX,DeFi,Undisclosed,$6.00M,M2M capital,"Oct 07, 2025"
+CrunchDAO (Crunch Lab),Others,Strategic,$5.00M,"Galaxy Ventures
+Road Capital
+Multicoin Capital
+…","Oct 07, 2025"
+"Polymarket
+Polymarket",Infrastructure,Strategic,$2.00B,Intercontinental Exchange,"Oct 07, 2025"
 Meanwhile,Infrastructure,Undisclosed,$82.00M,"Haun Ventures
 Bain Capital Crypto
 Pantera Capital
@@ -61,38 +109,46 @@ lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
 Lee Linden
 cbspears","Oct 01, 2025"
 VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
-Talus,Infrastructure,Strategic,--,"Sui
-Walrus","Spt 30, 2025"
-Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
-BaseVol,DeFi,Seed,$3.00M,"Neoclassic
-Altos Ventures
-Baboon VC
-…","Spt 30, 2025"
-"KGeN(indiGG)
-INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
-Accel
-Prosus Ventures","Spt 30, 2025"
-xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
-MultiversX","Spt 30, 2025"
-Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
-Sigil Fund
-Tioga Capital
-…","Spt 29, 2025"
-HeLa Network,Infrastructure,Undisclosed,$2.00M,--,"Spt 27, 2025"
-Share,Others,Undisclosed,$30.00M,"Coinbase Ventures
-Collab+Currency
-Palm Tree Crew(PTC Crypto)","Spt 26, 2025"
-Crossmint,CeFi,Strategic,--,Circle Ventures,"Spt 25, 2025"
-RedotPay,Others,Strategic,$47.00M,"Coinbase Ventures
-Galaxy Ventures
-Vertex Ventures","Spt 25, 2025"
-RockSolid Network,DeFi,Pre-Seed,$2.80M,"Castle Island Ventures
+Kalshi,DeFi,Undisclosed,$300.00M,"Andreessen Horowitz(a16z)
+Paradigm
+Coinbase Ventures
+…","Oct 10, 2025"
+Rhuna,Others,Seed,$2.00M,"CoinMarketCap
+NewTribe Capital
+X Ventures
+…","Oct 10, 2025"
+"Falcon Finance
+USDf",CeFi,Strategic,$10.00M,"Cypher Capital
+M2","Oct 09, 2025"
+LAB,DeFi,Undisclosed,$5.00M,"Lemniscap
+OKX Ventures
 GSR
-Rocket Pool
-…","Spt 25, 2025"
-Divine,DeFi,Seed,$6.00M,Paradigm,"Spt 25, 2025"
-Melee,Others,Pre-Seed,$3.50M,"Variant
-DBA","Spt 24, 2025"
+…","Oct 09, 2025"
+Block Street,DeFi,Undisclosed,$11.50M,"Hack VC
+Generative Ventures
+DWF Ventures","Oct 09, 2025"
+"375ai
+EAT",Infrastructure,Undisclosed,$5.00M,"Strobe Ventures
+6th Man Ventures
+Arca
+…","Oct 08, 2025"
+DDC,Others,Post-IPO,$124.00M,--,"Oct 08, 2025"
+Anthea,DeFi,Series A,$22.00M,Yunfeng Financial Group,"Oct 08, 2025"
+TransCrypts,Others,Seed,$15.00M,"Pantera Capital
+Faction VC
+Alpha Edison
+…","Oct 08, 2025"
+Coinflow,Web3,Series A,$25.00M,"Coinbase Ventures
+Pantera Capital
+Jump Capital
+…","Oct 08, 2025"
+NebX,DeFi,Undisclosed,$6.00M,M2M capital,"Oct 07, 2025"
+CrunchDAO (Crunch Lab),Others,Strategic,$5.00M,"Galaxy Ventures
+Road Capital
+Multicoin Capital
+…","Oct 07, 2025"
+"Polymarket
+Polymarket",Infrastructure,Strategic,$2.00B,Intercontinental Exchange,"Oct 07, 2025"
 Meanwhile,Infrastructure,Undisclosed,$82.00M,"Haun Ventures
 Bain Capital Crypto
 Pantera Capital
@@ -108,35 +164,3 @@ lava,CeFi,Extended Series A,$17.50M,"Jacob Brown
 Lee Linden
 cbspears","Oct 01, 2025"
 VivoPower,CeFi,Post-IPO,$19.00M,--,"Oct 01, 2025"
-Talus,Infrastructure,Strategic,--,"Sui
-Walrus","Spt 30, 2025"
-Bit Digital,CeFi,Post-IPO,$100.00M,--,"Spt 30, 2025"
-BaseVol,DeFi,Seed,$3.00M,"Neoclassic
-Altos Ventures
-Baboon VC
-…","Spt 30, 2025"
-"KGeN(indiGG)
-INDI",NFTs,Undisclosed,$13.50M,"Jump Crypto
-Accel
-Prosus Ventures","Spt 30, 2025"
-xMoney(Formerly:Utrust),CeFi,Strategic,$21.50M,"Sui
-MultiversX","Spt 30, 2025"
-Flying Tulip,DeFi,Seed,$200.00M,"Selini Capital
-Sigil Fund
-Tioga Capital
-…","Spt 29, 2025"
-HeLa Network,Infrastructure,Undisclosed,$2.00M,--,"Spt 27, 2025"
-Share,Others,Undisclosed,$30.00M,"Coinbase Ventures
-Collab+Currency
-Palm Tree Crew(PTC Crypto)","Spt 26, 2025"
-Crossmint,CeFi,Strategic,--,Circle Ventures,"Spt 25, 2025"
-RedotPay,Others,Strategic,$47.00M,"Coinbase Ventures
-Galaxy Ventures
-Vertex Ventures","Spt 25, 2025"
-RockSolid Network,DeFi,Pre-Seed,$2.80M,"Castle Island Ventures
-GSR
-Rocket Pool
-…","Spt 25, 2025"
-Divine,DeFi,Seed,$6.00M,Paradigm,"Spt 25, 2025"
-Melee,Others,Pre-Seed,$3.50M,"Variant
-DBA","Spt 24, 2025"
